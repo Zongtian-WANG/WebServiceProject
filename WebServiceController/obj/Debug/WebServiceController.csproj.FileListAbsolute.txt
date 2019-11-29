@@ -1,0 +1,9 @@
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\obj\Debug\WebServiceController.csprojResolveAssemblyReference.cache
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\bin\Debug\Server.WebServiceController.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\bin\Debug\Server.WebServiceController.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\obj\Debug\Server.WebServiceController.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\obj\Debug\Server.WebServiceController.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\bin\Debug\log4net.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceController\bin\Debug\log4net.xml

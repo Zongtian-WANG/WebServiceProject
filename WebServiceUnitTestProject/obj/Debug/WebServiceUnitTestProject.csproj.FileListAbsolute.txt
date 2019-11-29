@@ -1,0 +1,13 @@
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\WebServiceUnitTestProject.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\WebServiceUnitTestProject.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\obj\Debug\WebServiceUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\obj\Debug\WebServiceUnitTestProject.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\obj\Debug\WebServiceUnitTestProject.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\Server.WebServiceController.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\Server.WebServiceController.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\log4net.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WebServiceUnitTestProject\bin\Debug\log4net.xml

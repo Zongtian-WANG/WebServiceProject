@@ -1,0 +1,14 @@
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.BusyForm.resources
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\WindowsFormApplication.WSClient.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\WindowsFormApplication.WSClient.pdb
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\log4net.dll
+C:\Users\zw250097\documents\visual studio 2015\Projects\WebServiceProject\WindowsFormsApplication\bin\Debug\log4net.xml
