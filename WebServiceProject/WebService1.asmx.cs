@@ -1,4 +1,5 @@
-﻿using Server.WebServiceController;
+﻿using log4net;
+using Server.WebServiceController;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,6 +17,7 @@ namespace Server.WebServiceProject
     // [System.Web.Script.Services.ScriptService]
     public class WebService1 : System.Web.Services.WebService
     {
+        private static readonly ILog log = LogManager.GetLogger(typeof(FibonacciServiceController));
         /// <summary>
         /// web mrthod of Fibonacci
         /// </summary>
@@ -24,8 +26,11 @@ namespace Server.WebServiceProject
         [WebMethod]
         public int Fibonacci(int n)
         {
+            log.Info("Begin call Fibonacci with value n => " + n);
             FibonacciServiceController controller = new FibonacciServiceController();
-            return controller.Fibonacci(n);
+            int resultValue = controller.Fibonacci(n);
+            log.Info("End call Fibonacci with result => " + resultValue);
+            return resultValue;
         }
         /// <summary>
         /// WebMethods of XmlToJson
@@ -35,8 +40,11 @@ namespace Server.WebServiceProject
         [WebMethod]
         public string XmlToJson(string xml)
         {
+            log.Info("Begin call XmlToJson with value xml => " + xml);
             XmlToJsonServiceController controller = new XmlToJsonServiceController();
-            return controller.XmlToJson(xml);
+            string resultValue = controller.XmlToJson(xml);
+            log.Info("Begin call XmlToJson with json result => " + resultValue);
+            return resultValue;
         }
     }
 }
